@@ -83,3 +83,22 @@ https://en.wikipedia.org/wiki/Simpson%27s_paradox
 | Small stones |   **`81/87 = 93%`** |     `234/270 = 87%` |
 | Large stones | **`192/263 = 73%`** |       `55/80 = 69%` |
 | Both         |     `273/350 = 78%` | **`289/350 = 83%`** |
+
+## Book Report
+
+_What book (or book series) that you've read has been the most special,
+meaningful, or influential for you, and why? Respond in 500-700 characters._
+
+You'll generate **two** responses: one that you write yourself, and one that you
+generate with AI.
+
+This is a competition. You want both of your submissions to seem as "authentic"
+as possible. There are many ways to go about this.
+
+For the AI response, you can give the AI feedback and ask it to make changes to
+the responses it gives you; for example, you could ask it to choose a different
+book, use a more informal writing style, or include more detail. You should
+tweak your prompts until you arrive at something convincing.
+
+Keep track of any prompts that you use to generate the AI response; you will
+submit these as well.
