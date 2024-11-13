@@ -103,7 +103,7 @@ https://forms.gle/uwUQVyCT6Am6D1vd8
 **What book (or book series) that you've read has been the most special,
 meaningful, or influential for you, and why? Respond in 500-700 characters.**
 
-You'll generate **two** responses: one that you write yourself, and one that you
+You'll submit **two** responses: one that you write yourself, and one that you
 generate with AI.
 
 This is a competition. You want both of your submissions to seem as "authentic"
