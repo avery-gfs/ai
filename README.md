@@ -86,8 +86,10 @@ https://en.wikipedia.org/wiki/Simpson%27s_paradox
 
 ## Book Report
 
-_What book (or book series) that you've read has been the most special,
-meaningful, or influential for you, and why? Respond in 500-700 characters._
+https://forms.gle/uwUQVyCT6Am6D1vd8
+
+**What book (or book series) that you've read has been the most special,
+meaningful, or influential for you, and why? Respond in 500-700 characters.**
 
 You'll generate **two** responses: one that you write yourself, and one that you
 generate with AI.
