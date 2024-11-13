@@ -57,7 +57,11 @@ you that the driver is in fact drunk?
 In this scenario, let's say:
 
 - Breathalyzers are have a `5%` false positive rate (`5` in `100` sober drivers
-  will test positive; `95` in `100` sober drivers will test positive).
+  will test positive; `95` in `100` sober drivers will test negative).
+  
+- Breathalyzers are have a `0%` false negative rate (`100` in `100` drunk drivers
+  will test positive).
+
 - At any given time, `0.1%` of drivers on the road are drunk.
 
 Do the math out for `100000` drivers:
