@@ -67,3 +67,7 @@ Do the math out for `100000` drivers:
 | Count                 | `100000 * 0.999 = 99900`   | `100000 * 0.001 = 100`    | `100000` |
 | Positive              | `99900 * 0.05 = 4950`      | `100 * 1.00 = 100`        | `5050`   |
 | Positive of Positives | `4950 / 5050 = `**`0.98`** | `100 / 5050 = `**`0.02`** |          |
+
+## Woodworking
+
+https://github.com/user-attachments/assets/c49a08ee-5fb6-445a-b1cf-7005e9383c3e
