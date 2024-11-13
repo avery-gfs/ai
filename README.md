@@ -32,11 +32,19 @@ which gave the impression that the lice had left before the person became sick.
 
 ## Spurious Correlations
 
+**Names and Hydropower**
+
 ![](https://www.tylervigen.com/spurious/correlation/image/1519_popularity-of-the-first-name-aria_correlates-with_hydopower-energy-generated-in-equatorial-guinea.png)
+
+**Degrees and Corn**
 
 ![](https://www.tylervigen.com/spurious/correlation/image/1254_masters-degrees-awarded-in-education_correlates-with_gmo-use-in-corn-grown-in-ohio.png)
 
+**Memes and Statisticians**
+
 ![](https://www.tylervigen.com/spurious/correlation/image/7036_popularity-of-the-distracted-boyfriend-meme_correlates-with_the-number-of-statisticians-in-new-jersey.png)
+
+**Milk and Burglary**
 
 ![](https://www.tylervigen.com/spurious/correlation/image/1036_milk-consumption_correlates-with_burglary-rates.png)
 
@@ -58,7 +66,7 @@ In this scenario, let's say:
 
 - Breathalyzers are have a `5%` false positive rate (`5` in `100` sober drivers
   will test positive; `95` in `100` sober drivers will test negative).
-  
+
 - Breathalyzers are have a `0%` false negative rate (`100` in `100` drunk drivers
   will test positive).
 
