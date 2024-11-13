@@ -17,7 +17,7 @@ _Correlation does not imply causation._
 **Common cause**
 
 > People are more likely to carry umbrellas on days when they wear rain jackets.
-> _Therefore, rain jackets cause people to carry umbrellas._
+> _Therefore, carrying umbrellas causes people to wear rain jackets._
 
 ## Historical Example
 
@@ -62,8 +62,16 @@ In this scenario, let's say:
 
 Do the math out for `100000` drivers:
 
-|                       | Sober                      | Drunk                     | Total    |
+|                       |                      Sober |                     Drunk |    Total |
 | --------------------- | -------------------------: | ------------------------: | -------: |
-| Count                 | `100000 * 0.999 = 99900`   | `100000 * 0.001 = 100`    | `100000` |
-| Positive              | `99900 * 0.05 = 4950`      | `100 * 1.00 = 100`        | `5050`   |
+| Count                 |   `100000 * 0.999 = 99900` |    `100000 * 0.001 = 100` | `100000` |
+| Positive              |      `99900 * 0.05 = 4950` |        `100 * 1.00 = 100` |   `5050` |
 | Positive of Positives | `4950 / 5050 = `**`0.98`** | `100 / 5050 = `**`0.02`** |          |
+
+## Simpsons Paradox
+
+|              |         Treatment A |         Treatment B |
+| ------------ | ------------------: | ------------------: |
+| Small stones |   **`81/87 = 93%`** |     `234/270 = 87%` |
+| Large stones | **`192/263 = 73%`** |       `55/80 = 69%` |
+| Both         |     `273/350 = 78%` | **`289/350 = 83%`** |
