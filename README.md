@@ -70,12 +70,16 @@ Do the math out for `100000` drivers:
 
 ## Simpsons Paradox
 
+https://en.wikipedia.org/wiki/Simpson%27s_paradox
+
+> Simpson's paradox is a phenomenon in probability and statistics in which a
+> trend appears in several groups of data but disappears or reverses when the
+> groups are combined. This result is often encountered in social-science and
+> medical-science statistics, and is particularly problematic when frequency
+> data are unduly given causal interpretations.
+
 |              |         Treatment A |         Treatment B |
 | ------------ | ------------------: | ------------------: |
 | Small stones |   **`81/87 = 93%`** |     `234/270 = 87%` |
 | Large stones | **`192/263 = 73%`** |       `55/80 = 69%` |
 | Both         |     `273/350 = 78%` | **`289/350 = 83%`** |
-
-## Woodworking
-
-https://github.com/user-attachments/assets/c49a08ee-5fb6-445a-b1cf-7005e9383c3e
