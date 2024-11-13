@@ -9,15 +9,17 @@ _Correlation does not imply causation._
 > People are more likely to carry umbrellas on rainy days. _Therefore, rainy
 > days cause people to carry umbrellas._
 
-**Reverse Causality**
+**Reverse causality**
 
 > People are more likely to carry umbrellas on rainy days. _Therefore, carrying
 > umbrellas causes rain._
 
-**Common Cause**
+**Common cause**
 
 > People are more likely to carry umbrellas on days when they wear rain jackets.
 > _Therefore, rain jackets cause people to carry umbrellas._
+
+## Historical Example
 
 A historical example of this is that Europeans in the Middle Ages believed that
 lice were beneficial to health since there would rarely be any lice on sick
@@ -28,9 +30,14 @@ another host. The medical thermometer had not yet been invented and so that
 increase in temperature was rarely noticed. Noticeable symptoms came later,
 which gave the impression that the lice had left before the person became sick.
 
+## Spurious Correlations
+
 ![](https://www.tylervigen.com/spurious/correlation/image/1519_popularity-of-the-first-name-aria_correlates-with_hydopower-energy-generated-in-equatorial-guinea.png)
+
 ![](https://www.tylervigen.com/spurious/correlation/image/1254_masters-degrees-awarded-in-education_correlates-with_gmo-use-in-corn-grown-in-ohio.png)
+
 ![](https://www.tylervigen.com/spurious/correlation/image/7036_popularity-of-the-distracted-boyfriend-meme_correlates-with_the-number-of-statisticians-in-new-jersey.png)
+
 ![](https://www.tylervigen.com/spurious/correlation/image/1036_milk-consumption_correlates-with_burglary-rates.png)
 
 ## Base Rate Neglect
@@ -56,7 +63,7 @@ In this scenario, let's say:
 Do the math out for `100000` drivers:
 
 |                       | Sober                      | Drunk                     | Total    |
-| --------------------- | -------------------------- | ------------------------- | -------- |
+| --------------------- | -------------------------: | ------------------------: | -------: |
 | Count                 | `100000 * 0.999 = 99900`   | `100000 * 0.001 = 100`    | `100000` |
 | Positive              | `99900 * 0.05 = 4950`      | `100 * 1.00 = 100`        | `5050`   |
 | Positive of Positives | `4950 / 5050 = `**`0.98`** | `100 / 5050 = `**`0.02`** |          |
