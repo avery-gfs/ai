@@ -75,3 +75,7 @@ Do the math out for `100000` drivers:
 | Small stones |   **`81/87 = 93%`** |     `234/270 = 87%` |
 | Large stones | **`192/263 = 73%`** |       `55/80 = 69%` |
 | Both         |     `273/350 = 78%` | **`289/350 = 83%`** |
+
+## Woodworking
+
+https://github.com/user-attachments/assets/c49a08ee-5fb6-445a-b1cf-7005e9383c3e
