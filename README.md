@@ -4,17 +4,17 @@ https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation
 
 _Correlation does not imply causation._
 
-**Correct cause and effect**
+**Correct Cause and Effect**
 
 > People are more likely to carry umbrellas on rainy days. _Therefore, rainy
 > days cause people to carry umbrellas._
 
-**Reverse causality**
+**Reverse Causality**
 
 > People are more likely to carry umbrellas on rainy days. _Therefore, carrying
 > umbrellas causes rain._
 
-**Common cause**
+**Common Cause**
 
 > People are more likely to carry umbrellas on days when they wear rain jackets.
 > _Therefore, carrying umbrellas causes people to wear rain jackets._
