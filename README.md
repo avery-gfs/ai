@@ -19,16 +19,16 @@ _Correlation does not imply causation._
 
 ## Historical Example
 
-A historical example of this is that Europeans in the Middle Ages believed that
-lice were beneficial to health since there would rarely be any lice on sick
-people. The reasoning was that the people got sick because the lice left. The
-real reason however is that lice are extremely sensitive to body temperature. A
-small increase of body temperature, such as in a fever, makes the lice look for
-another host. The medical thermometer had not yet been invented and so that
-increase in temperature was rarely noticed. Noticeable symptoms came later,
-which gave the impression that the lice had left before the person became sick.
+> A historical example of this is that Europeans in the Middle Ages believed that
+> lice were beneficial to health since there would rarely be any lice on sick
+> people. The reasoning was that the people got sick because the lice left. The
+> real reason however is that lice are extremely sensitive to body temperature. A
+> small increase of body temperature, such as in a fever, makes the lice look for
+> another host. The medical thermometer had not yet been invented and so that
+> increase in temperature was rarely noticed. Noticeable symptoms came later,
+> which gave the impression that the lice had left before the person became sick.
 
-*https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation*
+https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation
 
 ## Spurious Correlations
 
