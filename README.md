@@ -1,7 +1,5 @@
 ## Cause and Effect
 
-https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation
-
 _Correlation does not imply causation._
 
 **Correct Cause and Effect**
@@ -29,6 +27,8 @@ small increase of body temperature, such as in a fever, makes the lice look for
 another host. The medical thermometer had not yet been invented and so that
 increase in temperature was rarely noticed. Noticeable symptoms came later,
 which gave the impression that the lice had left before the person became sick.
+
+*https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation*
 
 ## Spurious Correlations
 
